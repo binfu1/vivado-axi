@@ -9,3 +9,9 @@ axil/.Xil
 axil/*.jou
 axil/*.log
 axil/*.str
+
+axis/proj*/*
+axis/.Xil
+axis/*.jou
+axis/*.log
+axis/*.str
