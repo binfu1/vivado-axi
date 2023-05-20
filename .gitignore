@@ -1,0 +1,11 @@
+axi4/proj*/*
+axi4/.Xil
+axi4/*.jou
+axi4/*.log
+axi4/*.str
+
+axil/proj*/*
+axil/.Xil
+axil/*.jou
+axil/*.log
+axil/*.str
