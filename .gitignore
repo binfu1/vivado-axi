@@ -15,3 +15,9 @@ axis/.Xil
 axis/*.jou
 axis/*.log
 axis/*.str
+
+axis-link/proj*/*
+axis-link/.Xil
+axis-link/*.jou
+axis-link/*.log
+axis-link/*.str
